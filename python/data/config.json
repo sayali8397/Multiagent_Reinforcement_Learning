@@ -1,0 +1,49 @@
+{
+	"program parameters":{
+		"use gui":"False",
+		"is test":"False",
+		"read world from file":"True",
+		"use experience replay":"True",
+		"exchange graphs":"True",
+		"no detach":"True",
+		"revisit penalty":"True",
+		"n hidden layers":2,
+		"surface attach":"True",
+		"partial delivery":"True",
+		"pause time":0.05,
+		"step limit":5000
+	},
+    "world":{
+		"rows":10,
+		"cols":10
+	},
+	"densities":{
+		"obstacle":0.25,
+		"agent":0.08,
+		"box":0.04
+	},
+	"box weight":2,
+	"agent lifting capacity":1,
+	"tiletype":{
+		"agent":{
+			"symbol":"A",
+			"color":"blue"
+		},
+		"box":{
+			"symbol":"B",
+			"color":"red"
+		},
+		"free":{
+			"symbol":".",
+			"color":"white"
+		},
+		"obstacle":{
+			"symbol":"#",
+			"color":"black"
+		},
+		"unexplored":{
+			"symbol":"?",
+			"color":"grey"
+		}
+	}
+}

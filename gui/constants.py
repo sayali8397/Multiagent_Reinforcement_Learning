@@ -1,0 +1,16 @@
+BG_COLOR = 'white'
+BG_TEXTBOX = 'LightBlue1'
+BG_BUTTON = 'SlateGray1'
+BG_BUTTON_ACTIVE = 'SteelBlue1'
+
+TILETYPE_ICON_SIZE = 60
+
+BOX_COLOR = 'red'
+AGENT_COLOR = 'blue'
+OBSTACLE_COLOR = 'black'
+FREE_COLOR = 'lavender'
+
+BOX = 0
+AGENT = 1
+OBSTACLE = 2
+FREE = 3

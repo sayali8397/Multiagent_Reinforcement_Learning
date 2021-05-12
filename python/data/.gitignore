@@ -1,0 +1,12 @@
+replay_losses
+losses
+avg_losses
+results
+iter_times
+agent_histories*/*
+model_state_dict/
+database/
+map_obstacles
+world_map
+boxes_data
+agents_data
